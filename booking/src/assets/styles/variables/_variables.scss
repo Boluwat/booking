@@ -1,0 +1,106 @@
+:root {
+	//COLORS
+	--color-light: #f4f9ff;
+	--color-white: #ffffff;
+	--color-white-2: #FBFCFE;
+
+	--color-primary: #1f68d6;
+	--color-primary-2: #3b7ee3;
+	--color-primary-3: #ccedff;
+	--color-primary-4: #003c97;
+	--color-primary-7: #c1daff;
+	--color-primary-8: #97c1ff;
+	--color-primary-09: #CCEDFF;
+	--color-mima-light: #EEF2F5;
+
+	--color-error: #e12f2f;
+	--color-success: #66b032;
+	--color-green: #569755;
+	--color-green-2: #92e391;
+	--color-green-3: #d3eace;
+	--color-yellow: #e7d788;
+	--color-yellow-2: #ffaa00;
+	--color-yellow-3: #8f4f00;
+	--color-light-red: #f7d1cd;
+	--color-deep-red: #9f0000;
+
+	--color-grey: #b3b3c5;
+	--color-grey-2: #d1d1d1;
+	--color-grey-3: #e0e9f3;
+	--color-grey-4: #D1D1D1;
+	--color-grey-5: #EBEBF5;
+	--color-grey-6: #9898AB;
+	--color-table-grey: #fafafc;
+	--color-table-grey-1: #f4f4fc;
+
+	--color-dark: #4a4a68;
+	--color-dark-2: #1a1a42;
+	--color-dark-3: #696365;
+	--color-dark-6: #2a2828;
+
+	--color-disabled: #C0C0C0;
+	--color-light-blue: #EBF2FF;
+	--color-light-blue-2: #D4E5FF;
+	--color-light-blue-3: #E7F3FE;
+
+	--color-dark-yellow: #7E6E1F;
+	--color-light-brown: #f4f5f6;
+	--color-light-green: #E4FFEC;
+	--color-light-yellow: #FFF5D7;
+	--color-light-red: #FFE8E8;
+	--color-light-grey: #F3F3FF;
+
+	--color-admin: #112855;
+	--color-admin-2: #071530;
+	--color-admin-3: #020710;
+
+	// FONT
+	--default-font-size: 1.8rem;
+	--default-font-h1: 6.4rem;
+	--default-font-h2: 4rem;
+	--default-font-h3: 3.2rem;
+	--default-font-subtitle: 2.4rem;
+	--default-font-small: 1.4rem;
+	--default-font-xsmall: 1.2rem;
+}
+
+//COLORS
+$color-light: #f4f9ff;
+$color-white: #ffffff;
+$color-white-2: #FBFCFE;
+
+$color-primary: #1f68d6;
+$color-primary-2: #3b7ee3;
+$color-primary-3: #ccedff;
+$color-primary-4: #003c97;
+$color-primary-7: #c1daff;
+$color-primary-09: #CCEDFF;
+
+$color-error: #e12f2f;
+$color-success: #66b032;
+$color-green: #569755;
+$color-green-2: #92e391;
+$color-yellow: #e7d788;
+$color-light-red: #f7d1cd;
+
+$color-grey: #b3b3c5;
+$color-grey-2: #d1d1d1;
+$color-grey-3: #e0e9f3;
+$color-grey-4: #D1D1D1;
+$color-grey-6:#9898AB;
+
+$color-dark: #4a4a68;
+$color-dark-3: #696365;
+$color-dark-6: #2a2828;
+
+// FONT
+$default-font-size: 1.8rem;
+$default-font-h1: 6.4rem;
+$default-font-h2: 4rem;
+$default-font-h3: 3.2rem;
+$default-font-subtitle: 2.4rem;
+$default-font-small: 1.4rem;
+
+// SHADOWS
+$shadow-dark: 0 2rem 6rem rgba(0, 0, 0, 0.3);
+$shadow-light: 0 2rem 5rem rgba(0, 0, 0, 0.06);
